@@ -1,0 +1,7 @@
+cpus: 4
+hostname: remotebackup
+ip: 192.168.50.50
+memory_gb: 2
+mounts:
+    settings: C:/path/to/remotebackup/settings
+    source: C:/path/to/data/source

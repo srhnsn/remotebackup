@@ -1,0 +1,2 @@
+[Service]
+ExecStart=/provisioning/bin/run_sync.sh
